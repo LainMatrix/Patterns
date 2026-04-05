@@ -17,7 +17,7 @@ namespace Patterns.CreationalPatterns
     }
 
     //Пример
-    public abstract class Shape
+        public abstract class Shape
     {
         public int X { get; set; }
         public int Y { get; set; }

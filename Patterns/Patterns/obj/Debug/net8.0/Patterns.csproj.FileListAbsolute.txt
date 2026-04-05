@@ -1,0 +1,15 @@
+D:\programming\git\Patterns\Patterns\Patterns\bin\Debug\net8.0\Patterns.exe
+D:\programming\git\Patterns\Patterns\Patterns\bin\Debug\net8.0\Patterns.deps.json
+D:\programming\git\Patterns\Patterns\Patterns\bin\Debug\net8.0\Patterns.runtimeconfig.json
+D:\programming\git\Patterns\Patterns\Patterns\bin\Debug\net8.0\Patterns.dll
+D:\programming\git\Patterns\Patterns\Patterns\bin\Debug\net8.0\Patterns.pdb
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfoInputs.cache
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfo.cs
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.csproj.CoreCompileInputs.cache
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.sourcelink.json
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.dll
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\refint\Patterns.dll
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.pdb
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.genruntimeconfig.cache
+D:\programming\git\Patterns\Patterns\Patterns\obj\Debug\net8.0\ref\Patterns.dll
